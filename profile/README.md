@@ -1,4 +1,4 @@
-
+![header](https://github.com/DivisionofHealthcareSimulationSciences/.github/blob/main/Images/crest_vh_words_purple.png)
 
 ### The Division of Healthcare Simulation Science (HCSS) 
 
